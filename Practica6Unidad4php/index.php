@@ -11,7 +11,7 @@
     ?>
 </head>
 <body>
-    <h1>Herramientas</h1>
+    <h1>Herramientas de la practica 6</h1>
     <?php 
     $caja_herramientas = new Herramientas;
     $caja_herramientas->nombre = "Caja de herramientas";
