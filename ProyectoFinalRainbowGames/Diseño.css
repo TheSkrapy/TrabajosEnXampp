@@ -15,7 +15,8 @@ header
 
 main{
  background-color: white;
- opacity: 90%;
+ border-radius: 15px;
+ opacity: 95%;
 }
 
 footer{
