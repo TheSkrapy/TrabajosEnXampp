@@ -1,47 +1,13 @@
-header{
+header
+{
     background-color: gray;
-    border-radius: 15px;
 }
 
 main{
-    color: black;
+
 }
-div{
-    background-color: #FFFFFF;
-}
-.cont{
-    opacity: 0.5;
-}
+
 footer{
-   background-color: black;
-   color:gray
-}
-
-.container {
-    background-color: blue;
-    padding: 10px;
-}
- 
-.text {
-   
-    background-color: transparent;
-    padding: 10px;
-    color: black;
-    position: absolute;
-    z-index: 1;
-}
-
-.background {
-    width: 200px;
-    height: 100px;
-    background-color: #FFFFFF;
-    padding: 10px;
-    margin: 0px 0px 10px 0px;
-}
- 
-.trans {
-    opacity: 0.5;
-}
-body{
-    background-color: aquamarine;
+    color: gray;
+    background-color: black;
 }
