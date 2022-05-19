@@ -1,13 +1,29 @@
 header
 {
+    border-radius: 15px;
+    color: black;
     background-color: gray;
+     /* Enable flex mode. */
+     display: flex; 
+        
+     /* Spread out the elements inside the header. */
+     
+
+     /* Align items vertically in the center. */
+     align-items: center;
 }
 
 main{
-
+ background-color: white;
+ opacity: 90%;
 }
 
 footer{
     color: gray;
     background-color: black;
+}
+
+a:link, a:visited, a:active {
+    text-decoration:none;
+    color: black;
 }
