@@ -23,6 +23,8 @@
     echo "<p>Precio: $caja_herramientas->precio </p>";
     echo "<p>Descripcion: $caja_herramientas->descripcion  </p>";
     ?>
+    
+    Castillo Jr Gregorio
    
 </body>
 </html>
